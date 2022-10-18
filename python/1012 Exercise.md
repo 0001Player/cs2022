@@ -92,7 +92,7 @@ print(len(fruits))
 ## Example 3: Deleting element that doesn't exist
 ```python
 # fruits list
-fruits = ['berrie', 'tomatoes', 'avocado', 'melon', 'apple']
+fruits = ['berrry', 'tomatoes', 'avocado', 'melon', 'apple']
 
 # 'avocado' is removed
 fruits.remove('avocado')
@@ -104,7 +104,7 @@ print('Updated fruits list: ', fruits)
 ## Example 3: Deleting element that doesn't exist
 ```python
 # fruits list
-fruits = ['melon', 'berrie', 'tomatoes', 'apple']
+fruits = ['melon', 'berrry', 'tomatoes', 'apple']
 # Deleting 'avocado' element
 fruits.remove('avocado')
 
